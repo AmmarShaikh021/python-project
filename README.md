@@ -1,2 +1,1 @@
-# python-project
-Python project i did
+# ai-assistant
